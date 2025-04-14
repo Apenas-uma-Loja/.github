@@ -1,7 +1,10 @@
 # ApenasUmaLojaDocs
 
 
-A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motoristas, tendo como foco facilitar o processo de entrega e recebimento de produtos. A empresa visa a praticidade e conforto, tornando simples para o cliente realizar pedidos. Os clientes também têm enorme facilidade para verificar o status do pedido e acompanhar informações sobre sua viagem. Assim, a FEX projeta se expandir para ajudar cada vez mais pessoas, sempre visando o bem-estar dos clientes e funcionários.
+Se você é fã de Apenas um Show (Regular Show), chegou ao lugar certo! Nosso site é totalmente dedicado a trazer o estilo e a vibe única do parque mais maluco da TV direto para o seu guarda-roupa. Aqui você encontra roupas e acessórios exclusivos inspirados em Mordecai, Rigby, Saltitão, Musculoso, Skips, e todos os personagens que marcaram a sua infância (ou sua vida adulta, sem julgamentos!).
+
+Camisetas com estampas icônicas, moletons confortáveis perfeitos pra uma sessão de desenho no sofá, bonés estilosos, meias temáticas e até acessórios colecionáveis pra completar o visual. Todos os produtos são feitos com materiais de qualidade e aquele toque nostálgico que só um verdadeiro fã vai reconhecer.
+
 
 ## Membros
 
@@ -25,7 +28,7 @@ A FEX Company é uma empresa no ramo de transportes que gerencia pedidos e motor
 </td>
 <td align="center">
    
-   <img src="/img/logo.jpg" width="180px;" /></a>
+   <img src="/img/logo.jpg" width="100px;" /></a>
 
 </td>
 </tr>
