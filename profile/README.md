@@ -1,4 +1,4 @@
-# ApenasUmaLojaDocs
+# Apenas Uma Loja
 
 
 Se você é fã de Apenas um Show (Regular Show), chegou ao lugar certo! Nosso site é totalmente dedicado a trazer o estilo e a vibe única do parque mais maluco da TV direto para o seu guarda-roupa. Aqui você encontra roupas e acessórios exclusivos inspirados em Mordecai, Rigby, Saltitão, Musculoso, Skips, e todos os personagens que marcaram a sua infância (ou sua vida adulta, sem julgamentos!).
