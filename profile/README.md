@@ -76,7 +76,7 @@ Camisetas com estampas icônicas, moletons confortáveis perfeitos pra uma sess�
 ## Links Úteis
 
 - [Figma](https://www.figma.com/design/PONf8KmzrU0F9hzX0Knj4I/APENAS-UMA-LOJA)
-- [Fluxo](https://www.figma.com/board/bd2RYpRhsL4uVlaxX30dlb/Regular-Shop-Fluxograma?node-id=0-1&p=f&t=MHK9wwGuPp3zfVSw-0)
+- [Fluxograma](https://www.figma.com/board/bd2RYpRhsL4uVlaxX30dlb/Regular-Shop-Fluxograma?node-id=0-1&p=f&t=MHK9wwGuPp3zfVSw-0)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=footer"/>
