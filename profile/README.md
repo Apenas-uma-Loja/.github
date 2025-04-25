@@ -60,9 +60,8 @@ Camisetas com estampas icônicas, moletons confortáveis perfeitos pra uma sess�
 
 ## Repositórios
 
-- [FrontEnd](https://github.com/HackHeaders/FrontEnd) 🖥️
-- [BackEnd](https://github.com/HackHeaders/Backend) ⚙️
-- [Docs](https://github.com/HackHeaders/Documentation-Models) 📚
+- [FrontEnd](https://github.com/Apenas-uma-Loja/ApenasUmaLoja-Frontend) 🖥️
+- [Docs](https://github.com/Apenas-uma-Loja/ApenasUmaLoja-Docs) 📚
 
 ## Ferramentas Utilizadas
 
@@ -77,6 +76,7 @@ Camisetas com estampas icônicas, moletons confortáveis perfeitos pra uma sess�
 ## Links Úteis
 
 - [Figma](https://www.figma.com/design/PONf8KmzrU0F9hzX0Knj4I/APENAS-UMA-LOJA)
+- [Fluxo](https://www.figma.com/board/bd2RYpRhsL4uVlaxX30dlb/Regular-Shop-Fluxograma?node-id=0-1&p=f&t=MHK9wwGuPp3zfVSw-0)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A2236C,100:760038&height=120&section=footer"/>
